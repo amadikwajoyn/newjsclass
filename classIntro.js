@@ -34,3 +34,6 @@ console.log(name2.length);
 // string method
 console.log(name2.toUpperCase());
 console.log(name2.toLocaleUpperCase());
+
+let findIndex = name2.indexOf('d');
+console.log(findIndex);
