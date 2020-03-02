@@ -19,5 +19,9 @@ console.log(num>3);
 console.log(num<3);
 console.log(num<=3);
 console.log(num>=3);
+
+//strict comparison (different type cannot be equal)
 console.log(num!==390);
-console.log(email> 'Xam');
+console.log(num!=="390");
+console.log(num===390);
+console.log(num==="390");
