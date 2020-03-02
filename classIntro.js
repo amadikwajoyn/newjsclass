@@ -17,8 +17,7 @@ console.log(age, year);
 
 age = 40;
 console.log(age);
-const  pi = 3.14;
-console.log(pi);
+
 
 //using the var keyword
 var score = 73;
